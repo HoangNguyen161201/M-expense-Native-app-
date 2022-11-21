@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912841181159",
+    "firebase_url": "https://native-app-3e7c9-default-rtdb.firebaseio.com",
+    "project_id": "native-app-3e7c9",
+    "storage_bucket": "native-app-3e7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912841181159:android:b3ad22b30f0d162dd0df42",
+        "android_client_info": {
+          "package_name": "greenwich.edu.vn.ExpenseManageApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912841181159-ui9j3hgn40jo02kmjhgvtkoeig9ug6jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf6_TbKA35OIeAsd-qtK7sn3Ck3Yte0GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912841181159-ui9j3hgn40jo02kmjhgvtkoeig9ug6jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
